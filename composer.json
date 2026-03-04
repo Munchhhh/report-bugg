@@ -1,0 +1,9 @@
+{
+  "name": "spusm/ereport2",
+  "description": "SPUSM E-REPORT export dependencies",
+  "type": "project",
+  "require": {
+    "phpoffice/phpspreadsheet": "^2.2",
+    "dompdf/dompdf": "^3.1"
+  }
+}
